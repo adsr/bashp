@@ -1,0 +1,6 @@
+[submodule "bash"]
+	path = bash
+	url = https://git.savannah.gnu.org/git/bash.git
+[submodule "parson"]
+	path = parson
+	url = https://github.com/kgabis/parson.git
